@@ -81,7 +81,7 @@ Scoring Engine
 Live Feedback Dashboard
 Future Vision
 The long-term goal is to create an intelligent cricket coach capable of:
-
+ 
 Analysing batting technique automatically
 Comparing shots against professional players
 Detecting technical flaws
